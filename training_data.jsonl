@@ -1,0 +1,38 @@
+{"input": "Error:failed to connect to database", "output":"unwanted"}
+{"input": "System initialized successfully", "output":"wanted"}
+{"input": "Warning:low disk space on server", "output":"unwanted"}
+{"input": "User login successful", "output":"wanted"}
+{"input": "Error: file not found", "output":"unwanted"}
+{"input": "Backup completed", "output":"wanted"}
+{"input": "Critical: memory leak detected", "output":"unwanted"}
+{"input": "Update installed successfully", "output":"wanted"}
+{"input": "Error: permission denied", "output":"unwanted"}
+{"input": "Service started", "output":"wanted"}
+{"input": "Warning: high CPU usage", "output":"unwanted"}
+{"input": "Shutdown completed", "output":"wanted"}
+{"input": "Error: timeout occurred", "output":"unwanted"}
+{"input": "Configuration saved", "output":"wanted"}
+{"input": "Alert: unauthorized access attempt", "output":"unwanted"}
+{"input": "New user registered", "output":"wanted"}
+{"input": "Error: invalid input", "output":"unwanted"}
+{"input": "System rebooted", "output":"wanted"}
+{"input": "Warning: outdated software version", "output":"unwanted"}
+{"input": "File uploaded successfully", "output":"wanted"}
+{"input": "Error: network unreachable", "output":"unwanted"}
+{"input": "Password changed", "output":"wanted"}
+{"input": "Critical: disk failure imminent", "output":"unwanted"}
+{"input": "Session ended", "output":"wanted"}
+{"input": "Error: insufficient storage", "output":"unwanted"}
+{"input": "Email sent successfully", "output":"wanted"}
+{"input": "Warning: suspicious activity detected", "output":"unwanted"}
+{"input": "Profile updated", "output":"wanted"}
+{"input": "Error: service unavailable", "output":"unwanted"}
+{"input": "Task completed", "output":"wanted"}
+{"input": "Alert: system overheating", "output":"unwanted"}
+{"input": "Document saved", "output":"wanted"}
+{"input": "Error: authentication failed", "output":"unwanted"}
+{"input": "Connection established", "output":"wanted"}
+{"input": "Warning: low battery", "output":"unwanted"}
+{"input": "Message delivered", "output":"wanted"}
+{"input": "Error: corrupted file", "output":"unwanted"}
+{"input": "Update checked", "output":"wanted"}
